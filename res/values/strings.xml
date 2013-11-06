@@ -4,6 +4,6 @@
     <string name="app_name">Maps</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="API_KEY">AIzaSyANBZKW0hjTckPC0v1Knh5gazfAHCIS-js</string>
+    <string name="API_KEY">YOUR API KEY</string>
 
 </resources>
